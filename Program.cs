@@ -76,7 +76,7 @@ namespace Loggboken
                             break;
 
                         case 3: 
-                            // Denna kod låter dig söka efter dina inlägg genom antigen texten eller titeln på inlägget
+                            // Denna kod låter dig söka efter dina inlägg genom antigen texten eller titeln på inlägget, använder linjär sökning
 
                             Console.Clear();
                             Console.Write("\n\t Titel eller text på inlägget du söker: ");
