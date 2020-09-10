@@ -1,4 +1,4 @@
-# Csharp
+# C#
 
 My first attempt on a C# program, it lets you create and search for posts
 
